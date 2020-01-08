@@ -2,6 +2,11 @@
 
 ![sitcoms](images/sitcoms.png)
 
+This content is from the talk I gave at the Data Science Salon conference in Las Vegas on 11/07/2019.
+[![Watch the video](https://www.youtube.com/watch?time_continue=519&v=SKviFcvDibA&feature=emb_logo)
+
+<!--[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?time_continue=519&v=SKviFcvDibA&feature=emb_logo)>
+
 ## What constitutes a hit television show like few of these? 
 ### Questions I asked and investigated through Data Science.
 
