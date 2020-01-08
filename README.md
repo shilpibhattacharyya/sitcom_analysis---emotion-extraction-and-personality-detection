@@ -115,6 +115,15 @@ The personalities of all the characters have a similar distribution of attribute
 ![nlu](images/personality_density_breakingbad.png)
 The personalities of all the characters have a similar distribution of attributes
 
+## What are the top 5 locations F.R.I.E.N.D.S. was shot?
+![nlu](images/loc_friends.png)
+The show did not have much variation in the places it happened. That succeeded in binding its audience to to the show.
+## What are the top 5 locations The Big Bang Theory was shot?
+![nlu](images/loc_bigbang.png)
+The show did not have much variation in the places it happened. That succeeded in binding its audience to to the show.
+
+I did not have data for breakingbad to plot the top 5 locations at this time.
+
 
 
 
