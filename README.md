@@ -1,12 +1,26 @@
-# !Page under construction 
-# Friends_Analysis
-I am a huge fan of the TV sitcom 'F.R.I.E.N.D.S' and recently I have been wanting to analyze the primary characters on the show. When I went on internet looking for available datasets, I got transcripts for all the seasons, which has been created by people. So, I wanted to do some text mining on these transcripts. And this series is my journey to accomplish this project. I hope everyone out there interested to explore datasets as this would find it helpful. To begin with, I took all the season1 transcripts and saved the .html files as .csv files and merged all the episodes into a single transcript as per the following code.
+# Can Data Science help us find what makes a hit television show? 
 
-## References:
-https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f - Multi-Class Text Classification with Scikit-Learn
+## What constitutes a hit television show like few of these? 
+### Questions I asked and investigated through Data Science.
 
+* Is it the consistency in the way individual Characters speak and behave?
+* Is it the repeat shots at locations thereby making your audience feel like they know the place over time?
+* Is it the similarity/difference in the way different Characters speak and behave?
+* Is it the balanced distribution of emotions like joy, sadness, fear, anger, disgust etc. which makes a show interesting?
+* Is it the similar/different personality of Characters that keeps the audience connected?
+* Is it the interesting flashbacks which binds the audience? 
 
-## Word embeddings
+## Data Availability
 
-![PCA](img/WE.png)
-# sitcom_analysis---emotion-extraction-and-personality-detection
+* Are datasets available to do this analysis? No
+
+What I got after extensively searching the internet, was the html transcripts from the following URLs.
+
+* Friends - https://fangj.github.io/friends/ - 10 seasons
+* The Big Bang Theory – https://bigbangtrans.wordpress.com/ - 10/12 seasons
+* Breaking Bad - https://en.wikiquote.org/wiki/Breaking_Bad – 5 seasons (with missing data)
+
+Following is a sample of what these transcripts look like.
+
+![dataset_sample](images/dataset_sample.png)
+
