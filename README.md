@@ -105,6 +105,17 @@ The personalities of all the characters on the show are nearly similar
 ![nlu](images/personality_breakingbad.png)
 The personalities of all the characters are not quite similar
 
+## Personality Density of the Characters on F.R.I.E.N.D.S.
+![nlu](images/personality_density_friends.png)
+The personalities of all the characters have a similar distribution of attributes
+## Personality Density of the Characters on The Big Bang Theory
+![nlu](images/personality_density_bigbang.png)
+The personalities of all the characters have a similar distribution of attributes
+## Personality of the Characters on Breaking Bad
+![nlu](images/personality_density_breakingbad.png)
+The personalities of all the characters have a similar distribution of attributes
+
+
 
 
 
