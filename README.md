@@ -138,6 +138,55 @@ The Characters are quite similar and non-identifiable from each other except She
 ![nlu](images/lstm_breakingbad.png)
 The Characters are quite similar and non-identifiable from each other except Walter
 
+## Do the Characters on F.R.I.E.N.D.S. maintain consistency in the way they communicate?
+![nlu](images/consistency_friends.png)
+Yup! They mostly do
+
+## Do the Characters on The Big Bang Theory maintain consistency in the way they communicate?
+![nlu](images/consistency_bigbang.png)
+
+Yup! They do
+
+## Do the Characters on Breaking Bad maintain consistency in the way they communicate?
+![nlu](images/consistency_breakingbad.png)
+
+Mostly,  they do. Walter shows inconsistency because of his other Character - Heisenberg
+
+## Do we have the answer to what makes a sitcom popular?
+
+* Is it the consistency in the way individual Characters speak and behave?
+We can infer this, as all the three popular shows reflects this in their analysis.
+
+* Is it the repeat shots at locations thereby making your audience feel like they know the place?
+Yes, both the shows ‘F.R.I.E.N.D.S.’ and ‘The Big Bang Theory’ confirm to this.  Unfortunately, I could not find location data for ‘Breaking Bad’.
+
+* Is it the similarity/difference in the way different Characters speak and behave?
+A.   They can be quite similar, as well as different. We did not get a solid evidence here on this from the confusion matrix we observed for the three shows.
+
+* Is it the balanced distribution of emotions like joy, sadness, fear, anger, disgust which makes a show interesting?
+A.  Yes, the results from Watson NLU on the input from three shows confirm this.
+
+* Is it the similar/different personality of Characters that keeps the audience connected?
+The results reveal that it’s obviously the similarity in personality which wins here.
+
+* Is it the interesting flashbacks which binds the audience? 
+A.   Unfortunately, the ‘flashback’ word does not appear in transcripts, so could not analyze this.
+
+## A word to the show makers from this analysis
+
+* If you are fortunate to have a show running long, try to establish consistency in the speech and behavior of individual Characters over the episodes.
+
+* There should be minimal variance in the set of shooting locations. This would instill a sense of belonging to the environment and culture of the sitcom in the audience.
+
+* The personality of the Characters on the sitcom should be similar and blend together, as the Personality Insights results highlight.
+
+* The distribution of emotions are  leaning towards a particular emotion. F.R.I.E.N.D.S. is a show of primarily joy and sadness; The Big Bang Theory is leaning towards joy and sadness as well. Breaking Bad is a show mostly made of anger and sadness. The takeaway is keep the emotion quotient of the show coherent over a period of time.
+
+* The Characters can be different or similar to each other as long as the above criteria are met. 
+
+
+
+
 
 
 
