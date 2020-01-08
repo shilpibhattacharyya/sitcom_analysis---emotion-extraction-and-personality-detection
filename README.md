@@ -28,3 +28,19 @@ Following is a brief illustration of how I prepared dataset for modeling from ra
 
 ![dataset_sample](images/data_prep_steps.png)
 
+After I run the above steps, I get my dataset for each sitcom ready to be used for modeling. It took some significant effort on my part to generate these datasets. So, I uploaded them on Kaggle so that they can be used by the interested parties.
+
+![dataset_sample](images/friends_dataset_kaggle.png)
+https://www.kaggle.com/shilpibhattacharyya/friends-sitcom-dataset
+
+![dataset_sample](images/big_bang_theory_dataset_kaggle.png)
+https://www.kaggle.com/shilpibhattacharyya/the-big-bang-theory-dataset
+
+![dataset_sample](images/breaking_bad_dataset_kaggle.png)
+https://www.kaggle.com/shilpibhattacharyya/breaking-bad-sitcom-dataset
+
+
+
+
+
+
