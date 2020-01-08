@@ -86,17 +86,13 @@ Following are the scattered plot results.
 I am using **Watson Personality Insights** to investigate the personality of each of the lead characters on the show.
 ![wpi](images/WPI.png)
 We would for big 5 traits from WPI defined as below here.
-```
+
 **Agreeableness**  compassionate and cooperative toward others.
+**Conscientiousness**  act in an organized or thoughtful way.
+**Extraversion**  seek stimulation in the company of others.
+**Emotional range**  the extent to which a person's emotions are sensitive to the person's environment.
+**Openness** the extent to which a person is open to experiencing different activities.
 
-Conscientiousness  act in an organized or thoughtful way.
-
-Extraversion  seek stimulation in the company of others.
-
-Emotional range  the extent to which a person's emotions are sensitive to the person's environment.
-
-Openness the extent to which a person is open to experiencing different activities.
-```
 The IBM Watson Personality Insights service uses linguistic analytics to extract a spectrum of cognitive and social characteristics from the text data that a person generates through blogs, tweets, forum posts, and more. Watson found Trump "boisterous."
 
 
