@@ -95,6 +95,17 @@ We would go for the big 5 traits from WPI defined as below here.
 
 The IBM Watson Personality Insights service uses linguistic analytics to extract a spectrum of cognitive and social characteristics from the text data that a person generates through blogs, tweets, forum posts, and more. Watson found Trump "boisterous."
 
+## Personality Insights for the Characters on F.R.I.E.N.D.S.
+![nlu](images/personality_friends.png)
+The personalities of all the characters on the show are similar
+## Personality Insights for the Characters on The Big Bang Theory
+![nlu](images/personality_bigbang.png)
+The personalities of all the characters on the show are nearly similar
+## Personality Insights for the Characters on Breaking Bad
+![nlu](images/personality_breakingbad.png)
+The personalities of all the characters are not quite similar
+
+
 
 
 
