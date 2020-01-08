@@ -71,6 +71,20 @@ Happiness is most dominant emotion of the Characters in the show
 ![nlu](images/emo_quotient_breakingbad.png)
 Sadness and Anger are the key emotions of the Characters 
 
+## Sentiment Density of Characters on F.R.I.E.N.D.S.
+![nlu](images/sentiment_density_friends.png)
+All the Characters are biased towards joy and sadness
+
+## Sentiment Density of Characters on The Big Bang Theory
+![nlu](images/sentiment_density_bigbang.png)
+All the Characters are biased towards sadness
+
+## Sentiment Density of Characters on Breaking Bad
+![nlu](images/sentiment_density_breakingbad.png)
+All the Characters are biased towards sadness and anger
+
+
+
 
 
 
