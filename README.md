@@ -61,15 +61,44 @@ Individual_Emotion_Quotient = Individual_Emotion_Score/Total_Emotion_Score
 Following are the scattered plot results.
 ## Emotion Quotient of the Characters on F.R.I.E.N.D.S. 
 ![nlu](images/emo_quotient_friends.png)
-Happiness and Sadness are the key emotions of the Characters 
+```Happiness and Sadness are the key emotions of the Characters```
 
 ## Emotion Quotient of the Characters on The Big Bang Theory
 ![nlu](images/emo_quotient_bigbang.png)
-Happiness is most dominant emotion of the Characters in the show
+```Happiness is most dominant emotion of the Characters in the show```
 
 ## Emotion Quotient of the Characters on Breaking Bad
 ![nlu](images/emo_quotient_breakingbad.png)
-Sadness and Anger are the key emotions of the Characters 
+```Sadness and Anger are the key emotions of the Characters```
+
+## Sentiment Density of Characters on F.R.I.E.N.D.S.
+![nlu](images/sentiment_density_friends.png)
+```All the Characters are biased towards joy and sadness```
+
+## Sentiment Density of Characters on The Big Bang Theory
+![nlu](images/sentiment_density_bigbang.png)
+```All the Characters are biased towards sadness```
+
+## Sentiment Density of Characters on Breaking Bad
+![nlu](images/sentiment_density_breakingbad.png)
+```All the Characters are biased towards sadness and anger```
+
+I am using **Watson Personality Insights** to investigate the personality of each of the lead characters on the show.
+![wpi](images/WPI.png)
+We would for big 5 traits from WPI defined as below here.
+```
+**Agreeableness**  compassionate and cooperative toward others.
+
+Conscientiousness  act in an organized or thoughtful way.
+
+Extraversion  seek stimulation in the company of others.
+
+Emotional range  the extent to which a person's emotions are sensitive to the person's environment.
+
+Openness the extent to which a person is open to experiencing different activities.
+```
+The IBM Watson Personality Insights service uses linguistic analytics to extract a spectrum of cognitive and social characteristics from the text data that a person generates through blogs, tweets, forum posts, and more. Watson found Trump "boisterous."
+
 
 
 
