@@ -121,8 +121,8 @@ The show did not have much variation in the places it happened. That succeeded i
 ## What are the top 5 locations The Big Bang Theory was shot?
 ![nlu](images/loc_bigbang.png)
 The show did not have much variation in the places it happened. That succeeded in binding its audience to to the show.
-
-I did not have data for breakingbad to plot the top 5 locations at this time.
+## What are the top 5 locations The Breaking Bad was shot?
+I did not have data for the Breaking Bad to plot the top 5 locations at this time.
 
 
 
