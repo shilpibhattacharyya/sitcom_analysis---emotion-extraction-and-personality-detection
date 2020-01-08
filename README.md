@@ -24,3 +24,7 @@ Following is a sample of what these transcripts look like.
 
 ![dataset_sample](images/dataset_sample.png)
 
+Following is a brief illustration of how I prepared dataset for modeling from raw html transcripts.
+
+![dataset_sample](images/data_prep_steps.png)
+
