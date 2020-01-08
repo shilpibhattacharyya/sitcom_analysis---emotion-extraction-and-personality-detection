@@ -1,4 +1,6 @@
 # Can Data Science help us find what makes a hit television show? 
+* Data Science * NLP * Watson NLU * Watson Personality Insights
+
 
 ## What constitutes a hit television show like few of these? 
 ### Questions I asked and investigated through Data Science.
