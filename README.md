@@ -1,10 +1,6 @@
 # Can Data Science help us find what makes a hit television show? 
 
-![friends](images/friends.png)
-
-![bigbang](images/bigbang.png)
-
-![breakingbad](images/breakingbad.png)
+![sitcoms](images/sitcoms.png)
 
 ## What constitutes a hit television show like few of these? 
 ### Questions I asked and investigated through Data Science.
