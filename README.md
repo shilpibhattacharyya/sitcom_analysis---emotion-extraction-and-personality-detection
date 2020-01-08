@@ -184,6 +184,13 @@ A.   Unfortunately, the ‘flashback’ word does not appear in transcripts, so 
 
 * The Characters can be different or similar to each other as long as the above criteria are met. 
 
+## Comparing the number of dialogues spoken by the lead Characters
+
+![nlu](images/dialogues.png)
+
+## Most Popular Characters
+![nlu](images/pop_chars.png)
+
 
 
 
