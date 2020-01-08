@@ -47,7 +47,9 @@ I am using **Watson Natural Language Understanding (NLU)** for emotion detection
 
 ## Emotion distribution of the Characters on F.R.I.E.N.D.S.
 ![nlu](images/emo_friends.png) 
+## Emotion distribution of the Characters on The Big Bang Theory
 ![nlu](images/emo_bigbang.png) 
+## Emotion distribution of the Characters on Breaking Bad
 ![nlu](images/emo_breakingbad.png) 
 
 
