@@ -45,6 +45,39 @@ I am using **Watson Natural Language Understanding (NLU)** for emotion detection
 
 ![nlu](images/nlu.png) 
 
+## Emotion distribution of the Characters on F.R.I.E.N.D.S.
+![nlu](images/emo_friends.png) 
+## Emotion distribution of the Characters on The Big Bang Theory
+![nlu](images/emo_bigbang.png) 
+## Emotion distribution of the Characters on Breaking Bad
+![nlu](images/emo_breakingbad.png) 
+
+I have introduced a variable 'emotion qotient' to understand which emotion is most prominent with respect to other emotions on the show. I have defined it as follows:
+
+```
+Individual_Emotion_Quotient = Individual_Emotion_Score/Total_Emotion_Score
+```
+
+Following are the scattered plot results.
+## Emotion Quotient of the Characters on F.R.I.E.N.D.S. 
+![nlu](images/emo_quotient_friends.png)
+Happiness and Sadness are the key emotions of the Characters 
+
+## Emotion Quotient of the Characters on The Big Bang Theory
+![nlu](images/emo_quotient_bigbang.png)
+Happiness is most dominant emotion of the Characters in the show
+
+## Emotion Quotient of the Characters on Breaking Bad
+![nlu](images/emo_quotient_breakingbad.png)
+Sadness and Anger are the key emotions of the Characters 
+
+
+
+
+
+
+
+
 
 
 
