@@ -45,6 +45,11 @@ I am using **Watson Natural Language Understanding (NLU)** for emotion detection
 
 ![nlu](images/nlu.png) 
 
+## Emotion distribution of the Characters on F.R.I.E.N.D.S.
+![nlu](images/emo_friends.png) 
+![nlu](images/emo_bigbang.png) 
+![nlu](images/emo_breakingbad.png) 
+
 
 
 
