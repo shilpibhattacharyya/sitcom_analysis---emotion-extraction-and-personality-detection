@@ -1,4 +1,6 @@
 # Can Data Science help us find what makes a hit television show? 
+* Data Science *NLP *Watson NLU *Watson Personality Insights
+
 
 ## What constitutes a hit television show like few of these? 
 ### Questions I asked and investigated through Data Science.
@@ -39,7 +41,7 @@ https://www.kaggle.com/shilpibhattacharyya/the-big-bang-theory-dataset
 ![dataset_sample](images/breaking_bad_dataset_kaggle.png)
 https://www.kaggle.com/shilpibhattacharyya/breaking-bad-sitcom-dataset
 
-I am using ** Watson Natural Language Understanding (NLU) ** for emotion detection of the characters. Natural Language Understanding is a collection of APIs that offer text analysis through natural language processing. This set of APIs can analyze text to help you understand its concepts, entities, keywords, sentiment, and more. 
+I am using **Watson Natural Language Understanding (NLU)** for emotion detection of the characters. Natural Language Understanding is a collection of APIs that offer text analysis through natural language processing. This set of APIs can analyze text to help you understand its concepts, entities, keywords, sentiment, and more. 
 
 ![nlu1](images/nlu1.png) ![nlu2](images/nlu2.png)
 
