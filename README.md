@@ -124,6 +124,21 @@ The show did not have much variation in the places it happened. That succeeded i
 ## What are the top 5 locations The Breaking Bad was shot?
 I did not have data for the Breaking Bad to plot the top 5 locations at this time.
 
+Now to find out how different are each charcaters from each other, I am using a LSTM model on the dataset consisting of all the dialogues from every cahracter on the shows.
+
+## Can we distinguish the lead Characters on F.R.I.E.N.D.S. from each other (LSTM model)?
+![nlu](images/lstm_friends.png)
+The Characters are quite different and identifiable from each other
+
+## Can we distinguish the lead Characters on F.R.I.E.N.D.S. from each other (LSTM model)?
+![nlu](images/lstm_bigbang.png)
+The Characters are quite similar and non-identifiable from each other except Sheldon
+
+## Can we distinguish the lead Characters on F.R.I.E.N.D.S. from each other (LSTM model)?
+![nlu](images/lstm_breakingbad.png)
+The Characters are quite similar and non-identifiable from each other except Walter
+
+
 
 
 
